@@ -12,3 +12,5 @@ color:
     - '#FFFFFF'
     - '#FF9800'
 name: interACTIV+
+analytics:
+  google: UA-74381737-1
